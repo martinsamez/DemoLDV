@@ -1,2 +1,1 @@
-# DemoLDV
-Este es un demo con un libro de visitas.
+Demo Libro de visitas.
